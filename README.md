@@ -41,7 +41,15 @@ Namespace(base_lr=0.0001, batch_size=32, c_dim=3, checkpoint_dir='checkpoint', c
  * For running tensorboard, `tensorboard --logdir=./board` then access localhost:6006 with your browser
 
 ## Result
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ppooiiuuyh/SR_SRCNN/master/asset/srcnn_result3.png" width="400">
+</p>
 
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ppooiiuuyh/SR_SRCNN/master/asset/srcnn_result3.png" width="400">
+</p>
 
 
 
